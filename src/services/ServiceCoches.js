@@ -1,5 +1,4 @@
 import Global from './../Global';
-import fetch from 'node-fetch';
 
 export default class ServiceCoches {
 
